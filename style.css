@@ -1,0 +1,26 @@
+.parent{
+    background-image: linear-gradient(to bottom right, rgb(63, 239, 40), rgb(48, 50, 171));
+    width: 100vw;
+   height: 100vh;
+}
+i{
+    font-size: 80px;
+    margin-left: 680px ;
+
+}
+.border{
+    border: solid white 5px;
+    width: 500px;
+    height: 400px;
+    margin-left: 470px;
+    
+}
+input{
+    margin-left: 10px ;
+   margin-top: 10px;
+   width: 470px;
+}
+.x{
+   background-color: blue;
+   color: white;
+}
